@@ -1,0 +1,20 @@
+.formLabel {
+  display: block;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.25em;
+}
+
+.formInput {
+  padding: 0.5rem;
+  font-size: 1em;
+  margin-bottom: 1em;
+  width: 100%;
+}
+
+.formError {
+  display: block;
+  font-size: 0.875em;
+  line-height: 0.875em;
+  color: #f00;
+}

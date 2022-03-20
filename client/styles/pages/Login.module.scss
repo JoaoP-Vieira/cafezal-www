@@ -1,0 +1,25 @@
+.loginSection {
+  display: flex;
+
+  div {
+    flex: 1;
+
+    img {
+      height: 100%;
+    }
+  }
+}
+
+.loginForm {
+  padding: 4rem 0;
+  h2 {
+    width: 480px;
+    margin: 0 auto;
+  }
+
+  form {
+    display: table;
+    width: 480px;
+    margin: 1rem auto;
+  }
+}
